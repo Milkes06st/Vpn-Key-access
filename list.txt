@@ -1,6 +1,7 @@
 #profile-title: 🌐Weg VPN🎰
 #profile-web-page: https://t.me/wegistro
-#subscription-userinfo: upload=0; download=0; expire=2429827200
+#profile-description: Если у вас возникли проблемы с работой сервиса — выключите впн и обновите подписку, нажав на кнопку 🔄\n---\nтг канал: @wegistro
+#subscription-userinfo: total=214748364800; expire=2429827200
 
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@217.13.104.115:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NzoS8wtHAWEmypXGdwW01bN0LpDzr-Lw2HRRopKsLxY&security=reality&sid=a20d3ed244c76426&sni=eh.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Inferno%20Solutions%20%E2%80%94%20%2315%20%E2%9A%AAWeg_VPN
 
