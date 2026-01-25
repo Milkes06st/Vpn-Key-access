@@ -1,16 +1,7 @@
-#profile-title: 🌐Weg VPN🎰
+#profile-title: 🌐Weg VPN partner
 #profile-web-page: https://t.me/wegistro
-#!/bin/bash
-
-# Текущая дата в секундах
-current_date=$(date +%s)
-# Дата истечения (2026-02-25) в секундах
-expiry_date=$(date -d "2026-02-25" +%s)
-
-if [ $current_date -gt $expiry_date ]; then
-    echo "Срок действия лицензии истек."
-    exit 1
-fi
+#profile-description: Если у вас возникли проблемы с работой сервиса — выключите впн и обновите подписку, нажав на кнопку 🔄\n---\nтг канал: @wegistro
+#subscription-userinfo: total=214748364800; expire=1740441600
 
 Vless://4dcfab42-4703-07d0-b56d-0965380a532e@89.208.228.43:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231%20%E2%9A%AAWeg_VPN
 vless://d63129ab-04a5-4797-8a70-84f4ab610ca9@217.16.16.251:8443?encryption=none&fp=chrome&pbk=bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk&security=reality&sid=edc87d796657fbe5&sni=eh.vk.vom&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232%20%E2%9A%AAWeg_VPN
