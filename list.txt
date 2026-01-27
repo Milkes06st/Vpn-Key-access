@@ -1,5 +1,5 @@
 #profile-title: base64:8J+MqldlZyBWUE4=
-#subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2429827200
+#subscription-userinfo: upload=0; download=0; total=9999999999999999999; expire=2429827200
 #profile-web-page-url: https://t.me/wegistro
 #profile-update-interval: 12
 #profile-description: Если у вас возникли проблемы с работой сервиса — выключите впн и обновите подписку, нажав на кнопку 🔄\n\n🔗 Наш канал: https://t.me/wegistro\n---\nтг канал: @wegistro
