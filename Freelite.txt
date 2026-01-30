@@ -1,4 +1,4 @@
-#profile-title: 🌐Weg VPN🎰
+#profile-title: 🌐Weg VPN Free
 #profile-web-page: https://t.me/wegistro
 #profile-description: тг канал: @wegistro
 #subscription-userinfo: expire=2429827200
